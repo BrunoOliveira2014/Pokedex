@@ -1,0 +1,187 @@
+img {
+    position: relative;
+    width: 221px;
+    height: 174px;
+    border-image: 0;
+    margin-left: 143px;
+    margin-top: 42px;
+    padding: 0px;
+    display: block;
+    z-index: 8;
+    
+}
+
+h1{
+    position: static;
+    font-family: verdana;
+    margin: 40px;
+    padding: 0px;
+    color: #fff;
+    font-family: verdana;
+    margin: 40px;
+    padding: 0px;
+    color: #fff;
+    margin-left: 37px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+  
+   
+}
+
+.Status{
+    list-style: none;
+    font-family: Verdana;
+    display: inline-block;
+    margin-left: 118px;
+    padding: 18px;
+    color: #fff;
+
+    
+}
+body{
+    /* background-color: #4ab07b; */
+    border: 0;
+    margin: 0;
+    
+}
+
+h2{
+    margin-left: 272px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.Number{
+    position: absolute;
+    padding: 63px;
+    margin-top: -16px;
+    font-size: 131px;
+    margin-left: -16px;
+    opacity: 0.5;
+    color: #fff;
+    
+}
+   
+
+   
+
+
+div li{
+    list-style: none;
+   margin-bottom: 35px;
+   color: #fff;
+
+}
+
+.vida-progresso{
+    width: 74px; /* Largura da barra de vida */
+    height: 12px; /* Altura da barra de vida */
+    background-color: #00ff08; /* Cor de fundo da barra de vida */
+    border: 1px solid #fff; 
+    margin-left: 167px;
+    margin-top: -263px;
+    border-radius: 50px;
+    
+    
+}
+
+.vida-barra {
+    width: 107px;
+    height: 12px;
+    background-color: #00ff08;
+    border: 1px solid #fff;
+    margin-left: 167px;
+    margin-top: 39px;
+    border-radius: 50px;
+
+
+}
+.vida-barra1{
+    width: 74px;
+    height: 12px;
+    background-color: #00ff08;
+    border: 1px solid #fff;
+    margin-left: 167px;
+    margin-top: 39px;
+    border-radius: 50px;
+   
+}
+
+.vida-barra2{
+    width: 139px;
+    height: 12px;
+    background-color: #00ff08;
+    border: 1px solid #fff;
+    margin-left: 167px;
+    margin-top: 39px;
+    border-radius: 50px;
+
+    
+    
+}
+
+.vida-barra3{
+    width: 110px;
+    height: 12px;
+    background-color: #00ff08;
+    border: 1px solid #fff;
+    margin-left: 167px;
+    margin-top: 39px;
+    border-radius: 50px;
+
+    
+}
+
+html{
+  background-image: url('fundo'); 
+  border-bottom: 0;
+  
+   
+}
+
+footer {
+    background-color: black;
+    margin-left: -12px;
+    margin-top: -32px;
+    height: 111vh;
+    width: 103%;
+    border-top-left-radius: 12%;
+    border-top-right-radius: 12%;
+}
+
+.botao {
+    position: absolute;
+    top: 99px;
+    left: 38px;
+    color: #ffffff;
+    background-color: #4ab07b;
+    border-radius: 50px;
+    border: 0;
+}
+
+
+.botao1 {
+    position: absolute;
+    top: 76px;
+    left: 37px;
+    color: #ffffff;
+    background-color: #4ab07b;
+    border-radius: 50px;
+    border: 0;
+
+
+}
+
+html, body {
+    max-width: 665px; 
+    height: 100%; /* Defina a altura total da janela do navegador */
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    justify-content: center; /* Centralizar horizontalmente */
+    align-items: center; /* Centralizar verticalmente */
+    height: 100%; /* Herda a altura total da janela do navegador */
+}
